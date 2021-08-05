@@ -17,7 +17,6 @@ And It's include two database, first one is a 'CovidDeaths' and second one is th
 ➡️**Looking at Total cases vs Population**
 
 ➡️**Looking at Countries with Highest Infection Rate Compared to Population**
-
 ➡️**Showing Countries  with Highest Death Count per Population**
 ➡️**Total population vs Vaccinations**
 ➡️**Continent with the highest death count per population**
