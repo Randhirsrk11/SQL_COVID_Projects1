@@ -24,6 +24,8 @@ And It's include two database, first one is a 'CovidDeaths' and second one is th
 
 ➡️**Continent with the highest death count per population**
 
+⏰ **And much More.**
+
 
 
 Thanks 💛
