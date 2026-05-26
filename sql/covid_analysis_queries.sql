@@ -6,7 +6,6 @@ FROM PortfolioProject..CovidDeaths
 WHERE continent IS NOT NULL
 ORDER BY 3,4
 
-
 --SELECT * 
 --FROM PortfolioProject.CovidVaccination
 --ORDER BY 3,4
