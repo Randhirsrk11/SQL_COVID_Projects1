@@ -1,8 +1,7 @@
 # COVID_Death-Vaccination_SQL_Projects
 
-
 Data Analyst SQL Project Repository
-This Repository will hold all of the code and queries from the SQL Projects I created my analyzing purpose.
+This Repository will hold all of the code and queries from the SQL Projects. I created for my analysis purpose.
 
 Please feel free to take these and run with them. Make them your own and find you own insights
 
@@ -25,7 +24,5 @@ And It's include two database, first one is a 'CovidDeaths' and second one is th
 ➡️**Continent with the highest death count per population**
 
 ⏰ **And much More.**
-
-
 
 Thanks 💛
